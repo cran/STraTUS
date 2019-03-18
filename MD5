@@ -1,0 +1,16 @@
+ec11df611adf413b28a0e7503a09a608 *DESCRIPTION
+a0be95a4ebb9db530d6cf1cba8351a85 *NAMESPACE
+0f3c3267a89520a1262c660d4720a443 *R/data_for_docs.R
+d4bc566d27d62877998d6ae39fe25496 *R/enumeration.R
+3fd7d2f9fd69cccb33cd1dc01b72dc65 *R/sampling.R
+58cee132e4c54ee31dd7d716ab267888 *R/utility_functions.R
+3110325db6be83aefe26b0b283ffc038 *data/grouping.map.rda
+bb58b524ffed0a93c944cf4e7ac0aee9 *data/stratus_example_tree.rda
+204630de7f5e559006b057dc19192345 *man/build.edgelist.Rd
+8d39e19f999e06c900bf1bc8b1952c80 *man/draw.fully.sampled.Rd
+3e64ef1c68157e335f9dc5bf2459b818 *man/draw.incompletely.sampled.Rd
+4ba137e58e1fbe0705e0b8eec92cfacf *man/grouping.map.Rd
+a17d9ac7e15de24f7bb20bf91fc11f33 *man/sample.partial.tt.Rd
+ea88cfe67b7027de41e900a08a296820 *man/sample.tt.Rd
+e43fad10ca4f56c3b46dc8f711fec299 *man/stratus.example.tree.Rd
+87c6a50a510ab23dad66e20edca4267f *man/tt.generator.Rd
