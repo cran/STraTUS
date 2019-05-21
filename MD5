@@ -1,8 +1,8 @@
-ec11df611adf413b28a0e7503a09a608 *DESCRIPTION
+e8fcd4d1a4db9f7e502019c6f4445b1e *DESCRIPTION
 a0be95a4ebb9db530d6cf1cba8351a85 *NAMESPACE
 0f3c3267a89520a1262c660d4720a443 *R/data_for_docs.R
 d4bc566d27d62877998d6ae39fe25496 *R/enumeration.R
-3fd7d2f9fd69cccb33cd1dc01b72dc65 *R/sampling.R
+592884c37b1657f64c5648dc5c881c7a *R/sampling.R
 58cee132e4c54ee31dd7d716ab267888 *R/utility_functions.R
 3110325db6be83aefe26b0b283ffc038 *data/grouping.map.rda
 bb58b524ffed0a93c944cf4e7ac0aee9 *data/stratus_example_tree.rda
